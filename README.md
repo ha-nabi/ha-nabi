@@ -1,6 +1,8 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 여기는 창작하는 곳이고,
-[저기](https://kangciu.notion.site/b6e503b472f64e92a412037f2927e3d6?pvs=4)는 공부하는 곳입니다
+[저기](https://www.instagram.com/dear.kang/)는 개인 SNS 입니다
+<br>
+두루두루 어울리는 걸 잘하고, 애플 기기를 좋아합니다
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 
