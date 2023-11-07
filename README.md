@@ -15,7 +15,8 @@
 </summary>
    <br>
   
-<img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIkit-2396F3?style=plastic&logo=uikit&logoColor=white">
+
 
 
 </details>
@@ -26,7 +27,7 @@
 </summary>
    <br>
 
-<img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe-FF0000?style=plastic&logo=swift&logoColor=white">  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white">
 
 </details>
 
