@@ -28,13 +28,11 @@
 <br>
 <br>
 </details>
-
-</div>
+</i>
 
 ---
 
-### Blog 최신글
-
+### Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kangciu)](https://velog.io/@kangciu/posts)
 
 
