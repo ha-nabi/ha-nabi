@@ -33,7 +33,7 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kangciu)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kangciu)](https://velog.io/@kangciu/posts)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangciu&count_bg=%23232323&title_bg=%23232323&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
