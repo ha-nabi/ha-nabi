@@ -33,12 +33,10 @@
 
 ---
 
+### Blog 최신글
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kangciu)](https://velog.io/@kangciu/posts)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangciu&count_bg=%23232323&title_bg=%23232323&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@kangciu/about"><img src="https://img.shields.io/badge/kangciu.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
-
-
-
-</i>
