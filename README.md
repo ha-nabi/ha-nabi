@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/VvoWlWo.gif)
 
 <div align="center">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kangciu&show_icons=true&theme=holi"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=holi"/>
 
  
 ### Experience 
@@ -20,7 +20,7 @@ LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
  
 ---
 
-<a href="https://github.com/kangciu"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangciu&theme=holi&layout=compact&hide_border=false" /></a> 
+<a href="https://github.com/kangciu"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-nabi&theme=holi&layout=compact&hide_border=false" /></a> 
 
 ### Skills&Tools
 <div align="center">
