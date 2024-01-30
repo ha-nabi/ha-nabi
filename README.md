@@ -3,7 +3,8 @@
 ![](https://i.imgur.com/VvoWlWo.gif)
 
 <div align="center">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=holi"/>
+<a href="https://github.com/ha-nabi/github-readme-stats">
+      <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=dark&hide_border=false&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=fa8b00&rank_icon=stats" />
 
  
 ### Experience 
@@ -20,7 +21,8 @@ LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
  
 ---
 
-<a href="https://github.com/kangciu"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-nabi&theme=holi&layout=compact&hide_border=false" /></a> 
+<a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width="500" height=50% src="http://github-readme-streak-stats.herokuapp.com?user=ha-nabi&hide_border=false&theme=dark" alt="" />
 
 ### Skills&Tools
 <div align="center">
@@ -34,7 +36,6 @@ LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
 <br>
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" />  
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
-
   <br>
  
 </div>
