@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/ha-nabi/github-readme-stats">
-      <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=dark&hide_border=false&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=fa8b00&rank_icon=stats" />
+      <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=dark&hide_border=false&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=fa8b00&rank_icon=stats" />
 
  
 ### Experience 
@@ -22,7 +22,7 @@ LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
 ---
 
 <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="450" height=50% src="http://github-readme-streak-stats.herokuapp.com?user=ha-nabi&hide_border=false&theme=dark" alt="" />
+      <img align="right" width="400" height=50% src="http://github-readme-streak-stats.herokuapp.com?user=ha-nabi&hide_border=false&theme=dark" alt="" />
 
 ### Skills&Tools
 <div align="center">
