@@ -15,7 +15,6 @@ LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
  <br>
  <br>  
  <br>  
- <br>  
  
 </div>
  
