@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/ha-nabi/github-readme-stats">
-      <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=dark&hide_border=false&bg_color=0F1217&icon_color=4E9CFF&text_color=ffffff&title_color=1D64E8&rank_icon=stats" />
+      <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=dark&hide_border=false&bg_color=0F1217&icon_color=4E9CFF&text_color=ffffff&title_color=1D64E8&rank_icon=github" />
 
  
 ### Experience 
