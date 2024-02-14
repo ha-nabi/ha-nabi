@@ -10,7 +10,7 @@
 ### Experience 
 <div align="center">
 
-LikeLion iOS AppSchool Academy 3rd (2023.09~2024.3)
+LikeLion iOS AppSchool Academy 3rd (2023.09~2024.03)
  <br>
  <br>
  <br>  
