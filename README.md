@@ -12,5 +12,5 @@ While using various apps, when I discover interactive or unique UI and animation
 
 ## Education
 
-### Like lion [App School](https://techit.education/school) (2023.09.10 ~ 2023.2.25)
+### Techit Like lion [App School](https://techit.education/school) (2023.09.10 ~ 2023.2.25)
 studied Swift, UIKit, SwiftUI, HIG, git/github
