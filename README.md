@@ -14,3 +14,7 @@ While using various apps, when I discover interactive or unique UI and animation
 
 ### Techit Like lion [App School](https://techit.education/school) (2023.09.10 ~ 2023.2.25)
 studied Swift, UIKit, SwiftUI, HIG, git/github
+
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ha-nabi&show_icons=true&theme=github_dark)
