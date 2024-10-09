@@ -28,7 +28,7 @@ studied Swift, UIKit, SwiftUI, HIG, git/github
 
 - 서든뱅가드 : FPS 온라인 게임 서든어택에서 불법 프로그램 사용자를 1차적으로 조회할 수 있는 검색 서비스
   - 기간 : 2024.07 – 릴리즈
-  - 2024.10 기준 바이럴 마케팅으로만 노출수 2천회↑ 실사용자 50명↑
+  - 2024.10 기준 바이럴 마케팅으로만 노출수 3천회↑ 실사용자 70명↑
   - [Sudden Vanguard : App Store](https://apps.apple.com/kr/app/%EC%84%9C%EB%93%A0%EB%B1%85%EA%B0%80%EB%93%9C/id6670616799)<br>
   - [Sudden Vanguard :  Repository](https://github.com/Svanguard/SuddenVanguard)<br><br>
   
