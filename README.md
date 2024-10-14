@@ -4,7 +4,7 @@
 
 Techit iOS App School Completed, currently working on side Project Vlip, GitBoost, MoodList, Sudden Vanguard
 
-While using various apps, when I discover interactive or unique UI and animation, I have a hobby of finding the relevant code and uploading it to [GitHub](https://github.com/ha-nabi/Components)
+When I discover interactive or unique UIs and animations while using various applications, I have a hobby of finding the relevant code and uploading it to [GitHub](https://github.com/ha-nabi/Components).
 
 - being a user-friendly developer 😶‍🌫️
 - interested in UI/UX of the device and know how it affects the app 📱
