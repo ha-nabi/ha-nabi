@@ -9,3 +9,7 @@ When I discover interactive or unique UIs and animations while using various app
 - being a user-friendly developer 😶‍🌫️
 - interested in UI/UX of the device and know how it affects the app 📱
 - Enjoys writing and Reading 📝
+
+<br>
+
+<a href="https://github.com/ha-nabi"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=ha-nabi&hide=contribs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
